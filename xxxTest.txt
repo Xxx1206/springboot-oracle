@@ -1,3 +1,0 @@
-hello GitHub
-
-测试命令行插入
